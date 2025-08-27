@@ -33,7 +33,7 @@ Storage: Cloud storage for secure handling of uploaded files
 
 📸 Screenshots
 
-(./Infinityhelix.png)
+![Screenshot](./Infinityhelix.png)
 
 🔒 Privacy & Security
 
