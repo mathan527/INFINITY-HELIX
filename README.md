@@ -32,7 +32,8 @@ AI/ML: NLP models for medical text interpretation
 Storage: Cloud storage for secure handling of uploaded files
 
 📸 Screenshots
-(./Downloads/Infinity helix.PNG)
+
+(./Downloads/Infinityhelix.PNG)
 
 🔒 Privacy & Security
 
